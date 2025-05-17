@@ -68,7 +68,7 @@
         
         /* Hero Section */
         .hero {
-            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0,0,0,0.7)), url('/api/placeholder/1200/600') center/cover no-repeat;
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0,0,0,0.7)), url("large-63a9734707.jpg) center/cover no-repeat;
             color: white;
             padding: 100px 0;
             text-align: center;
